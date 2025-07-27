@@ -1,0 +1,57 @@
+# Cursor Rules for BeeAiRating Project
+
+## Code Style
+- Use Python 3.8+ syntax
+- Follow PEP 8 style guidelines
+- Use type hints where appropriate
+- Write docstrings for all functions and classes
+- Use meaningful variable and function names
+
+## Project Structure
+- Keep related files in the same directory
+- Use clear, descriptive file names
+- Separate concerns (models, views, controllers)
+- Follow the existing project structure
+
+## Documentation
+- Write clear, concise comments
+- Document complex algorithms
+- Include usage examples in docstrings
+- Keep README.md updated
+
+## Testing
+- Write unit tests for new features
+- Use pytest for testing
+- Aim for good test coverage
+- Test edge cases
+
+## Logging
+- Use Python's logging module
+- Log important events and errors
+- Use appropriate log levels
+- Include context in log messages
+
+## Security
+- Validate all user inputs
+- Use environment variables for sensitive data
+- Follow OWASP security guidelines
+- Sanitize data before database operations
+
+## Performance
+- Optimize database queries
+- Use caching where appropriate
+- Minimize memory usage
+- Profile code for bottlenecks
+
+## Git Practices
+- Write clear commit messages
+- Use feature branches
+- Keep commits atomic
+- Review code before merging
+
+## AI/ML Specific
+- Document model parameters
+- Include model versioning
+- Validate input data formats
+- Handle model errors gracefully
+- Log model predictions for debugging 
